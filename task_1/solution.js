@@ -44,7 +44,7 @@ function addInCartSumChange(sum, delta) {
     // замените склеивание, используемое в newSum Text на шаблонную строку
 
     // Конец решения задания №1.3.
-
+    // 111
     return newSumText;
 }
 
